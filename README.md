@@ -1,7 +1,5 @@
-# SQL---Analyzing-Unicorn-Companies
+# SQL-Analyzing-Unicorn-Companies
 Analyzing Unicorn Companies Using SQL in Jupyter Notebook
-
-![alt text](https://github.com/Ahmed-R-Hamdan/SQL---Analyzing-Unicorn-Companies/blob/main/image/unicorn.jpg)
 
 This project aims at exploring the below points:
 
